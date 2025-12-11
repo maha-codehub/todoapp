@@ -11,4 +11,4 @@ This Flutter To-Do App is a simple and lightweight task manager that allows user
 <img width="1920" height="370" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/044e6dcf-5a44-4a13-bfe3-ebc8dff87dfc" />
 
 Live Demo:
-mahacodehubtodoapp.netlify.app
+https://mahacodehubtodoapp.netlify.app/
