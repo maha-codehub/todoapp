@@ -60,7 +60,7 @@ git clone https://github.com/maha-codehub/todoapp.git
 
 2️⃣ Navigate to the Project Directory
 
-cd flutter-todo-app
+cd my_app
 
 3️⃣ Get Flutter Dependencies
 
