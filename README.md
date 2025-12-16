@@ -56,7 +56,7 @@ lib/
 
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/flutter-todo-app.git
+git clone https://github.com/maha-codehub/todoapp.git
 
 2️⃣ Navigate to the Project Directory
 
@@ -99,10 +99,22 @@ Add local storage (SharedPreferences / Hive)
 
 Improve UI animations
 
+
+
+📄 License
+
+This project is open-source and free to use for learning and personal projects.
+
+
+---
+
+⭐ If you like this project, don’t forget to star the repository!
+
+
 <img width="1920" height="639" alt="Screenshot (94)" src="https://github.com/user-attachments/assets/12b3eedd-3142-4c48-b017-4b9c157d8c29" />
 
 <img width="1920" height="418" alt="Screenshot (95)" src="https://github.com/user-attachments/assets/dd81737a-6a9f-461d-bb7e-0fad02da9143" />
 
 <img width="1920" height="481" alt="Screenshot (97)" src="https://github.com/user-attachments/assets/4597a573-226b-4b75-b8c9-cc3ab1abcd37" />
 
-<img width="1920" height="370" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/044e6dcf-5a44-4a13-bfe3-ebc8dff87dfc" 
+<img width="1920" height="370" alt="Screenshot (96)" src="https://github.com/user-attachments/assets/044e6dcf-5a44-4a13-bfe3-ebc8dff87dfc" />
